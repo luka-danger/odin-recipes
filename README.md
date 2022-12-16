@@ -10,3 +10,9 @@ The task for this project was to build a basic recipe website in HTMl. I tried t
 
 ## Screenshots:
 ![alt text](recipes-images/screenshot-index.png)
+
+![alt text](recipes-images/screenshot-oats.png)
+
+![alt text](recipes-images/screenshot-fried-rice.png)
+
+![alt text](recipes-images/screenshot-taco.png)
