@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+.h1-index {
+    color: green
+}
+
+.reviews {
+    background-color: yellow;
+    font-style: bold;
+}
